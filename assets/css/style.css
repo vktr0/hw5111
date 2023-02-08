@@ -43,6 +43,16 @@ article{
     padding: 6px 15px;
     border-bottom: 1px solid rgb(128, 128, 128);
 }
+article:nth-child(even){
+    background: #ececec;
+}
+article:nth-child(1) h2::after,
+article:nth-child(2) h2::after{
+    content: 'NEW';
+    font-size: .5rem;
+    margin-left: 10px;
+    color: #ff6f6f;
+}
 article a{
     color: #000;
     text-decoration: none;
