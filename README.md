@@ -9,3 +9,5 @@
 * CSS
 
 * Web-fonts (Open Sans)
+
+Сайт загружен на *Github Pages*, посмотреть можно [тут](https://vktr0.github.io/hw5111/)
